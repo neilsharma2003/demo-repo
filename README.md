@@ -3,4 +3,4 @@ Setting up Git and Github\
 
 
 
-neilsharma.co/demo-repo
+https://www.neilsharma.co/demo-repo
