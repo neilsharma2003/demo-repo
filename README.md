@@ -1,2 +1,3 @@
 # demo-repo
-Setting up Git/GitHub
+Setting up Git and Github
+neilsharma.co/demo-repo
